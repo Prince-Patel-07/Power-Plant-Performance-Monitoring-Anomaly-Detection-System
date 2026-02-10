@@ -22,16 +22,16 @@ Produces clear time-series plots and distributions that make it easy to understa
 
 The project is organized into modular components, each responsible for a specific task:
 
-Component A – Data Simulation
+* Component A – Data Simulation
 Creates synthetic sensor data and stores it in CSV format for downstream analysis.
 
-Component B – Anomaly Detection
+* Component B – Anomaly Detection
 Scans operational data to detect sustained or unusual behavior outside normal operating ranges.
 
-Component C – Performance Analysis Engine
+* Component C – Performance Analysis Engine
 Computes summary statistics and trends to assess system efficiency and stability.
 
-Component D – Visualization & Reporting
+* Component D – Visualization & Reporting
 Converts numerical results into meaningful visual insights using professional data visualizations.
 
 This modular design makes the system easy to understand, test, and extend.
