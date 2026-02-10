@@ -38,8 +38,8 @@ This modular design makes the system easy to understand, test, and extend.
 
 Technologies Used
 
-Python
+* Python
 
-Pandas & NumPy (data processing and analysis)
+* Pandas & NumPy (data processing and analysis)
 
-Matplotlib & Seaborn (visualization)
+* Matplotlib & Seaborn (visualization)
