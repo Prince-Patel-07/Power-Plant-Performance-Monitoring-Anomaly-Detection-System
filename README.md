@@ -36,7 +36,7 @@ Converts numerical results into meaningful visual insights using professional da
 
 This modular design makes the system easy to understand, test, and extend.
 
-Technologies Used
+**Technologies Used**
 
 * Python
 
