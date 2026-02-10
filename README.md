@@ -4,21 +4,21 @@ This project is a Python-based simulation and analysis system designed to model 
 
 The system simulates realistic power plant sensor data and processes it through multiple analytical components to identify performance trends, detect abnormal operating conditions, and present insights in a clear and understandable way.
 
-Key Features
+**Key Features**
 
-Realistic Data Simulation
+* Realistic Data Simulation
 Generates time-based operational data such as power output, temperature, pressure, vibration, and efficiency to mimic real-world power plant behavior.
 
-Anomaly Detection
+* Anomaly Detection
 Identifies abnormal operating conditions using reliable, rule-based techniques including statistical thresholds, moving averages, and trend deviation analysis.
 
-Performance Analysis
+* Performance Analysis
 Evaluates key operational metrics such as capacity utilization, efficiency trends, output stability, and overall system performance.
 
-Visualization & Reporting
+* Visualization & Reporting
 Produces clear time-series plots and distributions that make it easy to understand system behavior and performance over time.
 
-Project Structure
+**Project Structure**
 
 The project is organized into modular components, each responsible for a specific task:
 
